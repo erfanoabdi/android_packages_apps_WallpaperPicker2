@@ -18,8 +18,6 @@
     <!-- The name of this application, a wallpaper picker. [CHAR LIMIT=50] -->
     <string name="wallpaper_app_name">Wallpapers</string>
 
-    <string name="app_name">@string/wallpaper_app_name</string>
-
     <!-- UI Strings -->
     <!-- Label which asks the user to select a wallpaper category from the given choices. [CHAR LIMIT=50] -->
     <string name="select_wallpaper_label">Wallpaper categories</string>

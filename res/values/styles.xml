@@ -98,7 +98,6 @@
     </style>
 
     <!-- Text appearance -->
-    <style name="TitleTextAppearance" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title"/>
 
     <style name="SubtitleTextAppearance" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Subtitle"/>
 
